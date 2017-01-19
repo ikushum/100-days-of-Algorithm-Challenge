@@ -1,6 +1,6 @@
 # I joined the #100DaysOfAlgorithm Challenge.
 
-To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansubedi.herokuapp.com/blog/7) and fork this repository to started.
+To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansubedi.herokuapp.com/blog/7) and get started.
 
 ##Logs
 

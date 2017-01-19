@@ -7,11 +7,13 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 (delete this later)
 ### Day 0: January 20, 2017
 1) **filename1:** description
+
 2) **filename2:** description
 
 (delete this later)
 ### Day 1: January 21, 2017
 1) **filename1:** description
+
 2) **filename2:** description 
 
 (and so on)

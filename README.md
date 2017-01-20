@@ -4,16 +4,5 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 
 ##Logs
 
-(delete this later)
 ### Day 0: January 20, 2017
-1) **filename1:** description
-
-2) **filename2:** description
-
-(delete this later)
-### Day 1: January 21, 2017
-1) **filename1:** description
-
-2) **filename2:** description 
-
-(and so on)
+1) **duplicate_encoder:**  It converts a string to a new string where each character in the new string is '(' if that character appears only once in the original string, or ')' if that character appears more than once in the original string. 

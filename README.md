@@ -12,3 +12,7 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 ### Day 1: January 21, 2017
 
 3) **pairity_outliner:**  You are given an array (which will have a length of at least 3, but could be very large) containing integers. The array is either entirely comprised of odd integers or entirely comprised of even integers except for a single integer N. It contains a method that takes the array as an argument and returns N.
+
+### Day 2: January 22, 2017
+
+4) **exes_and_ohs:**  Checks to see if a string has the same amount of 'x's and 'o's. The method will return a boolean and is case insensitive. The string can contain any char.

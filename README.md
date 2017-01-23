@@ -16,3 +16,7 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 ### Day 2: January 22, 2017
 
 4) **exes_and_ohs:**  Checks to see if a string has the same amount of 'x's and 'o's. The method will return a boolean and is case insensitive. The string can contain any char.
+
+### Day 3: January 23, 2017
+
+5) **trailling_zero:** Finds to total number of trailling zeros in the factorial of a supplied number. 

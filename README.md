@@ -20,3 +20,7 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 ### Day 3: January 23, 2017
 
 5) **trailling_zero:** Finds to total number of trailling zeros in the factorial of a supplied number. 
+
+### Day 4: January 24, 2017
+
+6) **next_big_number:** A Function that takes a positive integer number and returns the next bigger number formed by the same digits. If no bigger number can be composed using those digits, it return -1. Phew, it was tough.

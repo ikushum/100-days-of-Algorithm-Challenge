@@ -28,3 +28,5 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 ### Day 5: January 25, 2017
 
 7) **perfect_power:** Checks if the number is perfect power and returns the corresponding pair i^j. It returns nil if the number is not a perfect power.
+
+8) **to_camel_case:**  It converts dash/underscore delimited words into camel casing. For example : to_camel_case("the-stealth-warrior") retutns "theStealthWarrior"

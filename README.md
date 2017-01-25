@@ -23,4 +23,8 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 
 ### Day 4: January 24, 2017
 
-6) **next_big_number:** A Function that takes a positive integer number and returns the next bigger number formed by the same digits. If no bigger number can be composed using those digits, it return -1. Phew, it was tough.
+6) **next_big_number:** A function that takes a positive integer number and returns the next bigger number formed by the same digits. If no bigger number can be composed using those digits, it return -1. Phew, it was tough.
+
+### Day 5: January 25, 2017
+
+7) **perfect_power:** Checks if the number is perfect power and returns the corresponding pair i^j. It returns nil if the number is not a perfect power.

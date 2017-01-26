@@ -30,3 +30,7 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 7) **perfect_power:** Checks if the number is perfect power and returns the corresponding pair i^j. It returns nil if the number is not a perfect power.
 
 8) **to_camel_case:**  It converts dash/underscore delimited words into camel casing. For example : to_camel_case("the-stealth-warrior") retutns "theStealthWarrior"
+
+### Day 6: January 26, 2017
+
+9) **bits_battle:** A list of positive integers is given. The odd numbers from the list will fight using their 1 bits from their binary representation, while the even numbers will fight using their 0 bits. This way the function returns the winner or a tie.

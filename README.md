@@ -34,3 +34,7 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 ### Day 6: January 26, 2017
 
 9) **bits_battle:** A list of positive integers is given. The odd numbers from the list will fight using their 1 bits from their binary representation, while the even numbers will fight using their 0 bits. This way the function returns the winner or a tie.
+
+### Day 7: January 27, 2017
+
+10) **bits_battle:** In addition to the 9th challenge, the war has expanded and become dirtier and meaner; both even and odd numbers will fight with their pointy 1s. And negative integers are coming into play as well. 

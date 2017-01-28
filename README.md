@@ -38,3 +38,7 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 ### Day 7: January 27, 2017
 
 10) **bits_war:** In addition to the 9th challenge, the war has expanded and become dirtier and meaner; both even and odd numbers will fight with their pointy 1s. And negative integers are coming into play as well. 
+
+### Day 8: January 28, 2017
+
+11) **bits_war:** It takes any non-negative integer as a argument and returns it with it's digits in descending order.

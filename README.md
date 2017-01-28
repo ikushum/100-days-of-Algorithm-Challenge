@@ -44,3 +44,5 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 11) **bits_war:** It takes any non-negative integer as a argument and returns it with it's digits in descending order.
 
 12) **largest_5_digit:** It returns the largest five digit sequence of number found within the number given. The number will be passed in as a string of only digits. It should return a five digit integer. 
+
+13) **palindrome_chain_length:** It takes a positive number and returns the number of special steps needed to obtain a palindrome. The special step is: "reverse the digits, and add to the original number".

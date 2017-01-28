@@ -42,3 +42,5 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 ### Day 8: January 28, 2017
 
 11) **bits_war:** It takes any non-negative integer as a argument and returns it with it's digits in descending order.
+
+12) **largest_5_digit:** It returns the largest five digit sequence of number found within the number given. The number will be passed in as a string of only digits. It should return a five digit integer. 

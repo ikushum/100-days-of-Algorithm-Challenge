@@ -50,9 +50,9 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 ### Day 9: January 29, 2017
 
 14) **hashtag_generator:** It takes a string and does the following:  
-    If the final result is longer than 140 chars it returns false.  
-    If the input is a empty string it returns false.  
-    It starts with a hashtag (#).  
-    All words have their first letter capitalized.  
-    for example input of " hello world " => "#HelloWorld"  
+-If the final result is longer than 140 chars it returns false.  
+-If the input is a empty string it returns false.  
+-It starts with a hashtag (#).  
+-All words have their first letter capitalized.  
+for example input of " hello world " => "#HelloWorld"  
 

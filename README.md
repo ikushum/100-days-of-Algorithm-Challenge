@@ -46,3 +46,13 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 12) **largest_5_digit:** It returns the largest five digit sequence of number found within the number given. The number will be passed in as a string of only digits. It should return a five digit integer. 
 
 13) **palindrome_chain_length:** It takes a positive number and returns the number of special steps needed to obtain a palindrome. The special step is: "reverse the digits, and add to the original number".
+
+### Day 9: January 29, 2017
+
+14) **hashtag_generator:** It takes a string and does the following:  
+    If the final result is longer than 140 chars it returns false.  
+    If the input is a empty string it returns false.  
+    It starts with a hashtag (#).  
+    All words have their first letter capitalized.  
+    for example input of " hello world " => "#HelloWorld"  
+

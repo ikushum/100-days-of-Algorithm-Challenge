@@ -58,4 +58,4 @@ for example input of " hello world " => "#HelloWorld"
 
 ### Day 10: January 30, 2017
 
-14) **first_non_repeating_letter:** It takes a string input, and returns the first character that is not repeated anywhere in the string. In addition, upper and lowercase letters are considered the same character, but the function returns the correct case for the initial letter. If a string contains all repeating characters, it returns the empty string ("").
+15) **first_non_repeating_letter:** It takes a string input, and returns the first character that is not repeated anywhere in the string. In addition, upper and lowercase letters are considered the same character, but the function returns the correct case for the initial letter. If a string contains all repeating characters, it returns the empty string ("").

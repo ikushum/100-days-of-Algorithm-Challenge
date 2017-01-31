@@ -62,8 +62,9 @@ for example input of " hello world " => "#HelloWorld"
 
 ### Day 11: January 31, 2017
 
-16) **first_non_repeating_letter:** Given an array (arr) as an argument the function countSmileys returns the total number of smiling faces. The rules for smiling faces are :  
+16) **count_smiley:** Given an array (arr) as an argument the function countSmileys returns the total number of smiling faces. The rules for smiling faces are :  
 -Each smiley face must contain a valid pair of eyes. Eyes can be marked as : or ;  
 -A smiley face can have a nose but it does not have to. Valid characters for a nose are - or ~  
--Every smiling face must have a smiling mouth that should be marked with either ) or D.  
+-Every smiling face must have a smiling mouth that should be marked with either ) or D. 
 
+17) **break_camelCase:** The function will break up camel casing, using a space between words. For example 'camelCasing' returns 'camel Casing'

@@ -68,3 +68,8 @@ for example input of " hello world " => "#HelloWorld"
 -Every smiling face must have a smiling mouth that should be marked with either ) or D. 
 
 17) **break_camelCase:** The function will break up camel casing, using a space between words. For example 'camelCasing' returns 'camel Casing'
+
+### Day 12: February 1, 2017
+
+18) **creditCard_mask:** The function maskify, changes all but the last four characters into '#'. For example '4556364607935616' returns '############5616'
+

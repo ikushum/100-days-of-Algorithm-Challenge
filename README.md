@@ -73,3 +73,7 @@ for example input of " hello world " => "#HelloWorld"
 
 18) **creditCard_mask:** The function maskify, changes all but the last four characters into '#'. For example '4556364607935616' returns '############5616'
 
+### Day 13: February 2, 2017
+
+19) **pileOfCubes:** We pass a variable m as an argument and the function will return n if it exists and -1 if it doesn't exist such that m = n^3 + (n-1)^3 + ... + 1^3. Basically, m represents total voloume of building and n represents total pile of cubes placed one over another to form the building.
+

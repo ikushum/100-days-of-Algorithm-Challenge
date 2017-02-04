@@ -41,7 +41,7 @@ To join the Challenge read [Lets Join the #100DaysOfAlgorithm](https://ishansube
 
 ### Day 8: January 28, 2017
 
-11) **bits_war:** It takes any non-negative integer as a argument and returns it with it's digits in descending order.
+11) **descending_order:** It takes any non-negative integer as a argument and returns it with it's digits in descending order.
 
 12) **largest_5_digit:** It returns the largest five digit sequence of number found within the number given. The number will be passed in as a string of only digits. It should return a five digit integer. 
 
@@ -80,4 +80,6 @@ for example input of " hello world " => "#HelloWorld"
 ### Day 14: February 4, 2017
 
 20) **steps_in_prime:** This function returns the first pair of the two prime numbers spaced with a step of g between the limits m, n if these g-steps prime numbers exists otherwise nil.
+
+21) **sum_of_sequence_1:** This function returns the sum of a sequence of integers. The sequence is defined by 3 non-negative values: begin, end, step. If begin value is greater than the end, function should returns 0
 

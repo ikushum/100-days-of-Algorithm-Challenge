@@ -77,3 +77,7 @@ for example input of " hello world " => "#HelloWorld"
 
 19) **pileOfCubes:** We pass a variable m as an argument and the function will return n if it exists and -1 if it doesn't exist such that m = n^3 + (n-1)^3 + ... + 1^3. Basically, m represents total voloume of building and n represents total pile of cubes placed one over another to form the building.
 
+### Day 14: February 4, 2017
+
+20) **steps_in_prime:** This function returns the first pair of the two prime numbers spaced with a step of g between the limits m, n if these g-steps prime numbers exists otherwise nil.
+

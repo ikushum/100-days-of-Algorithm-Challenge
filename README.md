@@ -83,3 +83,6 @@ for example input of " hello world " => "#HelloWorld"
 
 21) **sum_of_sequence_1:** This function returns the sum of a sequence of integers. The sequence is defined by 3 non-negative values: begin, end, step. If begin value is greater than the end, function should returns 0
 
+### Day 15: February 9, 2017
+
+22) **dont_give_5:** The start number and the end number of a region is given as parameter of the function which returns the count of all numbers except numbers with a 5 in it. The start and the end number are both inclusive.

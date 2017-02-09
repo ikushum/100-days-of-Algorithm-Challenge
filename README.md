@@ -86,3 +86,5 @@ for example input of " hello world " => "#HelloWorld"
 ### Day 15: February 9, 2017
 
 22) **dont_give_5:** The start number and the end number of a region is given as parameter of the function which returns the count of all numbers except numbers with a 5 in it. The start and the end number are both inclusive.
+
+23) **23_sort_inner_letters:** The function sorts the inner content of every word of a string in descending order. The inner content is the content of a word without first and the last char.

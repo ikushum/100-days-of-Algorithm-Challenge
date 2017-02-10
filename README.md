@@ -90,3 +90,13 @@ for example input of " hello world " => "#HelloWorld"
 23) **sort_inner_letters:** The function sorts the inner content of every word of a string in descending order. The inner content is the content of a word without first and the last char.
 
 24) **are_they_same:** Given two arrays a and b, the function comp(a, b) checks whether the two arrays have the "same" elements, with the same multiplicities. "Same" means, here, that the elements in b are the elements in a squared, regardless of the order.
+
+### Day 16: February 10, 2017
+
+25) **decrypt:** An unscramble string is passed as encrypted message to the function. Each message is a single string, with the blocks for each letter separated by a space. The blocks encoding the characters are made up of seemingly random characters and are of a variable length. For example, a two character word might look like: "x20*6< y_r9L"	To decode this string, this is what the function does :   
+sum of integers in "x20*6<" --> 2 + 0 + 6 = 8  
+sum of integers in "y_r9L" --> 9  
+Then maps these numbers to the corresponding letters of the alphabet, with 0 representing a space, 1 representing 'a', 2 representing a 'b' and so on.  
+So we have: "x20*6< y_r9L" --> "8 9" --> "hi"  
+Also, if the sum of the digits goes over 26, it loops back to zero (standard modulo / remainder function, such that 27 == 0, 28 == 1, etc.).  
+Phew, it was tough.

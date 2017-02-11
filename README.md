@@ -100,3 +100,11 @@ Then maps these numbers to the corresponding letters of the alphabet, with 0 rep
 So we have: "x20*6< y_r9L" --> "8 9" --> "hi"  
 Also, if the sum of the digits goes over 26, it loops back to zero (standard modulo / remainder function, such that 27 == 0, 28 == 1, etc.).  
 Phew, it was tough.
+
+### Day 17: February 11, 2017
+
+26) **sort_twisted37:** The function takes an random array and sorts it taking 3 as 7 and 7 as 3. For example :  
+[1,2,3,4,5,6,7,8,9] -> [1,2,7,4,5,6,3,8,9]  
+[12,13,14] -> [12,14,13]  
+[9,2,4,7,3] -> [2,7,4,3,9]  
+This was crazy tough :v

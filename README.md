@@ -108,3 +108,7 @@ Phew, it was tough.
 [12,13,14] -> [12,14,13]  
 [9,2,4,7,3] -> [2,7,4,3,9]  
 This was crazy tough :v
+
+### Day 18: February 12, 2017
+
+27) **split_even_numbers:** It has a very long description so refer to [this](https://www.codewars.com/kata/split-all-even-numbers-to-odd-ones-in-different-ways/train/ruby) page.

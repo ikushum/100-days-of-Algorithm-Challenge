@@ -1,20 +1,20 @@
 def split_all_even_numbers(numbers, way)
 	arr=[]
-	numbers.each do |num|
-		if num.even?
-			if way==0
-				(num/2).even? ? arr+= [(num/2)-1,(num/2)+1] : arr+= [num/2 , num/2]
-			elsif way==1
-				arr+= [1,num-1]
-			elsif way==2
-				z = (1..num-1).select{|x| x.odd? && num%x == 0}.max
- 				arr+= [z] * (num/z)
-			else
-				num.times{ arr+= [1] }
-			end
-		else
-			arr+= [num]
-		end	
-	end
+	numbers.each{|num| num.even? ? arr+= for_even(num,way) : arr+=[num] }
 	arr
 end
+
+def for_even(num,way)
+	case way	
+	when 0 then (num/2).even? ? [(num/2)-1,(num/2)+1] : [num/2 , num/2]	
+	when 1 then [1,num-1]
+	when 2 then find_for_2(num)
+	else [1] * (num)	
+	end
+end
+
+def find_for_2(num)
+	z = (1..num-1).select{|x| x.odd? && num%x == 0}.max
+ 	[z] * (num/z)
+end
+

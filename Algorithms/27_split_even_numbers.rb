@@ -17,4 +17,3 @@ def find_for_2(num)
 	z = (1..num-1).select{|x| x.odd? && num%x == 0}.max
  	[z] * (num/z)
 end
-

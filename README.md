@@ -112,3 +112,8 @@ This was crazy tough :v
 ### Day 18: February 12, 2017
 
 27) **split_even_numbers:** It has a very long description so refer to [this](https://www.codewars.com/kata/split-all-even-numbers-to-odd-ones-in-different-ways/train/ruby) page.
+
+### Day 19: February 13, 2017
+
+28) **find_the_divisors:** The function takes an integer and returns an array with all of the integer's divisors(except for 1 and the number itself). If the number is prime, it returns the string '(integer) is prime'
+

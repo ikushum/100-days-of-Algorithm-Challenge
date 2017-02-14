@@ -1,7 +1,6 @@
 def sequence(n)
-  return 0 if n==1
-  return 1 if n==2
-  return (sequence(n-2)+sequence(n-1))%3
+  i = n % 8
+  return 0 if i == 1 || i == 5
+  return 1 if i == 0 || i == 2 || i == 3 
+  2
 end
-
-puts sequence(19)

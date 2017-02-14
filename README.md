@@ -117,3 +117,7 @@ This was crazy tough :v
 
 28) **find_the_divisors:** The function takes an integer and returns an array with all of the integer's divisors(except for 1 and the number itself). If the number is prime, it returns the string '(integer) is prime'
 
+### Day 20: February 14, 2017
+
+29) **modulo_3_sequence:** Consider a sequence where the first two numbers are 0 and 1 and the next number of the sequence is the sum of the previous 2 modulo 3. The function finds the nth number of the sequence.
+

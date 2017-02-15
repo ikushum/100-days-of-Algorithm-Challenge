@@ -121,3 +121,6 @@ This was crazy tough :v
 
 29) **modulo_3_sequence:** Consider a sequence where the first two numbers are 0 and 1 and the next number of the sequence is the sum of the previous 2 modulo 3. The function finds the nth number of the sequence.
 
+### Day 21: February 15, 2017
+
+29) **prize_draw:** It has a very long description so refer to [this](https://www.codewars.com/kata/prize-draw/train/ruby) page.

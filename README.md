@@ -123,4 +123,4 @@ This was crazy tough :v
 
 ### Day 21: February 15, 2017
 
-29) **prize_draw:** It has a very long description so refer to [this](https://www.codewars.com/kata/prize-draw/train/ruby) page.
+30) **prize_draw:** It has a very long description so refer to [this](https://www.codewars.com/kata/prize-draw/train/ruby) page.

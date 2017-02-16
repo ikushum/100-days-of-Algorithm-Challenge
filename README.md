@@ -124,3 +124,7 @@ This was crazy tough :v
 ### Day 21: February 15, 2017
 
 30) **prize_draw:** It has a very long description so refer to [this](https://www.codewars.com/kata/prize-draw/train/ruby) page.
+
+### Day 22: February 16, 2017
+
+31) **sum_without_highlow:** A function that returns the sum of all the integers of an array except the highest and the lowest integer. It returns 0 if the array is nill or empty or just has 1 or 2 elements.

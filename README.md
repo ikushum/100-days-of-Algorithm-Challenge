@@ -128,3 +128,7 @@ This was crazy tough :v
 ### Day 22: February 16, 2017
 
 31) **sum_without_highlow:** A function that returns the sum of all the integers of an array except the highest and the lowest integer. It returns 0 if the array is nill or empty or just has 1 or 2 elements.
+
+### Day 23: February 17, 2017
+
+32) **find_missing_letters:** The method takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.

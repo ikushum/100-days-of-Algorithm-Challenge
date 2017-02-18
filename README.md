@@ -140,3 +140,6 @@ The function will return Alan's kid response, which is another sentence with the
 "I don't think you " + [action_performed_by_alan] + " today, I think you " + ["did" OR "didn't"] + [verb_of _action_in_present_tense] + [" it!" OR " at all!"]  
 (e.g.:"I don't think you played football today, I think you didn't play at all!")  
 
+### Day 24: February 18, 2017
+
+34) **length_of_missing_array:** An array is supplied. If you sort the arrays by their length, you will see, that their length-values are consecutive. But one array is missing! The method, returns the length of the missing array. If the array of arrays is null/nil or empty, the method returns 0. When an array in the array is null or empty, the method returns 0 too!

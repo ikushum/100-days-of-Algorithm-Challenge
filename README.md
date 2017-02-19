@@ -143,3 +143,8 @@ The function will return Alan's kid response, which is another sentence with the
 ### Day 24: February 18, 2017
 
 34) **length_of_missing_array:** An array is supplied. If you sort the arrays by their length, you will see, that their length-values are consecutive. But one array is missing! The method, returns the length of the missing array. If the array of arrays is null/nil or empty, the method returns 0. When an array in the array is null or empty, the method returns 0 too!
+
+### Day 25: February 19, 2017
+
+34) **fold_array:** The method folds a given array of integers by the middle x-times. For example when [1,2,3,4,5] is folded 1 times, it gives [6,6,3] and when folded two times it gives [9,6]. For more information [click here](https://www.codewars.com/kata/fold-an-array/train/ruby)
+

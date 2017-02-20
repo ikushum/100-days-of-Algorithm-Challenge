@@ -146,5 +146,8 @@ The function will return Alan's kid response, which is another sentence with the
 
 ### Day 25: February 19, 2017
 
-34) **fold_array:** The method folds a given array of integers by the middle x-times. For example when [1,2,3,4,5] is folded 1 times, it gives [6,6,3] and when folded two times it gives [9,6]. For more information [click here](https://www.codewars.com/kata/fold-an-array/train/ruby)
+35) **fold_array:** The method folds a given array of integers by the middle x-times. For example when [1,2,3,4,5] is folded 1 times, it gives [6,6,3] and when folded two times it gives [9,6]. For more information [click here](https://www.codewars.com/kata/fold-an-array/train/ruby)
 
+### Day 26: February 20, 2017
+
+36) **tortoise_racing:** Two tortoises named A and B must run a race. A starts with an average speed of 720 feet per hour. Young B knows she runs faster than A and furthermore has not finished her cabbage. When she starts, at last, she can see that A has a 70 feet lead but B speed is 850 feet per hour. How long will it take B to catch A? More generally: given two speeds v1 (A speed, integer > 0) and v2 (B speed, integer > 0) and a lead g (integer > 0) how long will it take B to catch A? The result will be an array [h, mn, s] where h, mn, s is the time needed in hours, minutes and seconds. The two speeds and lead will be given.

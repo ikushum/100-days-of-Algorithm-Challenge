@@ -151,3 +151,8 @@ The function will return Alan's kid response, which is another sentence with the
 ### Day 26: February 20, 2017
 
 36) **tortoise_racing:** Two tortoises named A and B must run a race. A starts with an average speed of 720 feet per hour. Young B knows she runs faster than A and furthermore has not finished her cabbage. When she starts, at last, she can see that A has a 70 feet lead but B speed is 850 feet per hour. How long will it take B to catch A? More generally: given two speeds v1 (A speed, integer > 0) and v2 (B speed, integer > 0) and a lead g (integer > 0) how long will it take B to catch A? The result will be an array [h, mn, s] where h, mn, s is the time needed in hours, minutes and seconds. The two speeds and lead will be given.
+
+### Day 27: February 22, 2017
+
+37) **disemvowel_trolls:** Trolls are attacking your comment section!. A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat. The function that takes a string and return a new string with all vowels removed. For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
+

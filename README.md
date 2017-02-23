@@ -156,3 +156,6 @@ The function will return Alan's kid response, which is another sentence with the
 
 37) **disemvowel_trolls:** Trolls are attacking your comment section!. A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat. The function that takes a string and return a new string with all vowels removed. For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
 
+### Day 28: February 23, 2017
+
+38) **backward_read_primes:** The function finds all Backwards Read Primes between two positive given numbers (both inclusive), the second one being greater than the first one. The resulting array or the resulting string will be ordered following the natural order of the prime numbers.

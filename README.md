@@ -161,3 +161,7 @@ The function will return Alan's kid response, which is another sentence with the
 38) **backward_read_primes:** The function finds all Backwards Read Primes between two positive given numbers (both inclusive), the second one being greater than the first one. The resulting array or the resulting string will be ordered following the natural order of the prime numbers.
 
 39) **cut_the_ropes:** N ropes are given , where the length of each rope is a positive integer. At each step, the function reduces all the ropes by the length of the smallest rope. The step will be repeated until no ropes are left. Given the length of N ropes in an array, the function returns the number of ropes that are left before each step in an array. For more information [click here](https://www.codewars.com/kata/simple-fun-number-160-cut-the-ropes/train/ruby)
+
+### Day 29: February 26, 2017
+
+40) **rectangle_into_square:** Description can be found [here](https://www.codewars.com/kata/rectangle-into-squares)

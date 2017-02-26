@@ -167,3 +167,5 @@ The function will return Alan's kid response, which is another sentence with the
 40) **rectangle_into_square:** Description can be found [here](https://www.codewars.com/kata/rectangle-into-squares)
 
 41) **cut_array_into_small_parts:** The function makeParts takes an array as argument and the size of the chunk. Example: if an array of size 123 is given and chunk size is 10 there will be 13 parts, 12 of size 10 and 1 of size 3.
+
+42) **batman_quotes:** Description can be found [here](https://www.codewars.com/kata/batman-quotes)

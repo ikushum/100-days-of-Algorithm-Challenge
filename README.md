@@ -111,7 +111,7 @@ This was crazy tough :v
 
 ### Day 18: February 12, 2017
 
-27) **split_even_numbers:** It has a very long description so refer to [this](https://www.codewars.com/kata/split-all-even-numbers-to-odd-ones-in-different-ways/train/ruby) page.
+27) **split_even_numbers:** It has a very long description so refer to [this](https://www.codewars.com/kata/split-all-even-numbers-to-odd-ones-in-different-ways) page.
 
 ### Day 19: February 13, 2017
 
@@ -123,7 +123,7 @@ This was crazy tough :v
 
 ### Day 21: February 15, 2017
 
-30) **prize_draw:** It has a very long description so refer to [this](https://www.codewars.com/kata/prize-draw/train/ruby) page.
+30) **prize_draw:** It has a very long description so refer to [this](https://www.codewars.com/kata/prize-draw) page.
 
 ### Day 22: February 16, 2017
 
@@ -146,7 +146,7 @@ The function will return Alan's kid response, which is another sentence with the
 
 ### Day 25: February 19, 2017
 
-35) **fold_array:** The method folds a given array of integers by the middle x-times. For example when [1,2,3,4,5] is folded 1 times, it gives [6,6,3] and when folded two times it gives [9,6]. For more information [click here](https://www.codewars.com/kata/fold-an-array/train/ruby)
+35) **fold_array:** The method folds a given array of integers by the middle x-times. For example when [1,2,3,4,5] is folded 1 times, it gives [6,6,3] and when folded two times it gives [9,6]. For more information [click here](https://www.codewars.com/kata/fold-an-array)
 
 ### Day 26: February 20, 2017
 
@@ -160,7 +160,7 @@ The function will return Alan's kid response, which is another sentence with the
 
 38) **backward_read_primes:** The function finds all Backwards Read Primes between two positive given numbers (both inclusive), the second one being greater than the first one. The resulting array or the resulting string will be ordered following the natural order of the prime numbers.
 
-39) **cut_the_ropes:** N ropes are given , where the length of each rope is a positive integer. At each step, the function reduces all the ropes by the length of the smallest rope. The step will be repeated until no ropes are left. Given the length of N ropes in an array, the function returns the number of ropes that are left before each step in an array. For more information [click here](https://www.codewars.com/kata/simple-fun-number-160-cut-the-ropes/train/ruby)
+39) **cut_the_ropes:** N ropes are given , where the length of each rope is a positive integer. At each step, the function reduces all the ropes by the length of the smallest rope. The step will be repeated until no ropes are left. Given the length of N ropes in an array, the function returns the number of ropes that are left before each step in an array. For more information [click here](https://www.codewars.com/kata/simple-fun-number-160-cut-the-ropes)
 
 ### Day 29: February 26, 2017
 

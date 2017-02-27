@@ -11,5 +11,5 @@ class BatmanQuotes
     when "J" then "Joker: #{quote}"
     end
   end
-  
+
 end

@@ -173,3 +173,7 @@ The function will return Alan's kid response, which is another sentence with the
 ### Day 30: February 27, 2017
 
 43) **rearange_to_max:** The function takes one positive three digit integer and rearanges its digits to get maximum possible number. The argument is integer. It returns nil if argument is not valid. 
+
+### Day 31: MArch 1, 2017
+
+44) **shortest_word:** Given a string of words, the function returns the length of the shortest word(s). String should not be empty.

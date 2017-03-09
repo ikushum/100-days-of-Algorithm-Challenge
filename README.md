@@ -174,6 +174,10 @@ The function will return Alan's kid response, which is another sentence with the
 
 43) **rearange_to_max:** The function takes one positive three digit integer and rearanges its digits to get maximum possible number. The argument is integer. It returns nil if argument is not valid. 
 
-### Day 31: MArch 1, 2017
+### Day 31: March 1, 2017
 
 44) **shortest_word:** Given a string of words, the function returns the length of the shortest word(s). String should not be empty.
+
+### Day 32: March 9, 2017
+
+45) **the_oldest_ages:** The two oldest ages function/method needs to be completed. It takes an array of numbers as its argument and returns the two highest numbers within the array. The returned value will be be an array in the format [second oldest age, oldest age]. 

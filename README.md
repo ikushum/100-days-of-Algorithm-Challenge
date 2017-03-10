@@ -181,3 +181,8 @@ The function will return Alan's kid response, which is another sentence with the
 ### Day 32: March 9, 2017
 
 45) **the_oldest_ages:** The two oldest ages function/method needs to be completed. It takes an array of numbers as its argument and returns the two highest numbers within the array. The returned value will be be an array in the format [second oldest age, oldest age]. 
+
+### Day 33: March 10, 2017
+
+46) **sum_of_numbers:** The function computes the series starting from 0 and ending until the given number and finally returns a string in the following format :  
+"0+1+2+...n = sum "

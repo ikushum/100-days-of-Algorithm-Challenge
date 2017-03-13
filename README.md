@@ -186,3 +186,7 @@ The function will return Alan's kid response, which is another sentence with the
 
 46) **sum_of_numbers:** The function computes the series starting from 0 and ending until the given number and finally returns a string in the following format :  
 "0+1+2+...n = sum "
+
+### Day 34: March 13, 2017
+
+47) **count_in_matrix:** The function count_number(n, x) will count the number of x present in a matrix of size nXn where the value of each element of the matrix is the product of the index of its row and columns ie iXj

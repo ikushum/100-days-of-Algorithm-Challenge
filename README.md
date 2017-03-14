@@ -190,3 +190,7 @@ The function will return Alan's kid response, which is another sentence with the
 ### Day 34: March 13, 2017
 
 47) **count_in_matrix:** The function count_number(n, x) will count the number of x present in a matrix of size nXn where the value of each element of the matrix is the product of the index of its row and columns ie iXj
+
+### Day 35: March 14, 2017
+
+48) **mod256_without_mod:** The function returns the remainder of a number when divided by 256 without using mod operator.

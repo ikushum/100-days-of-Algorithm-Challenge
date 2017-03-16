@@ -202,3 +202,5 @@ The function will return Alan's kid response, which is another sentence with the
 ### Day 37: March 16, 2017
 
 50) **get_middle_char:** The function takes a word as a string and returns the middle character of the word. If the word's length is odd, it returns the middle character. If the word's length is even, it returns the middle 2 characters.
+
+51) **complimentary_DNA:** In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G". The function takes one side of the DNA (string, except for Haskell); and returns the other complementary side. DNA strand is never empty or there is no DNA at all.

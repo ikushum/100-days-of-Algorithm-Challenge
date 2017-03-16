@@ -198,3 +198,7 @@ The function will return Alan's kid response, which is another sentence with the
 ### Day 36: March 15, 2017
 
 49) **rank_of_element:** Given an array arr, the function finds the rank of the element at the ith position.The rank of the arr[i] is a value equal to the number of elements less than or equal to arr[i] standing before arr[i], plus the number of elements less than arr[i] standing after arr[i].
+
+### Day 37: March 16, 2017
+
+50) **get_middle_char:** The function takes a word as a string and returns the middle character of the word. If the word's length is odd, it returns the middle character. If the word's length is even, it returns the middle 2 characters.

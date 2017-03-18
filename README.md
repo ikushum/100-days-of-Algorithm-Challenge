@@ -204,3 +204,7 @@ The function will return Alan's kid response, which is another sentence with the
 50) **get_middle_char:** The function takes a word as a string and returns the middle character of the word. If the word's length is odd, it returns the middle character. If the word's length is even, it returns the middle 2 characters.
 
 51) **complimentary_DNA:** In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G". The function takes one side of the DNA (string, except for Haskell); and returns the other complementary side. DNA strand is never empty or there is no DNA at all.
+
+### Day 38: March 18, 2017
+
+52) **array_packing:** An array of up to four non-negative integers is given, each less than 256. The function packs these integers into one number M in this way: "The first element of the array occupies the first 8 bits of M. The second element occupies next 8 bits, and so on." and returns the obtained integer M as unsigned integer.

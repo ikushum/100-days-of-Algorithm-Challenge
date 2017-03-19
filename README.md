@@ -208,3 +208,13 @@ The function will return Alan's kid response, which is another sentence with the
 ### Day 38: March 18, 2017
 
 52) **array_packing:** An array of up to four non-negative integers is given, each less than 256. The function packs these integers into one number M in this way: "The first element of the array occupies the first 8 bits of M. The second element occupies next 8 bits, and so on." and returns the obtained integer M as unsigned integer.
+
+### Day 39: March 19, 2017
+
+53) **mumbling:** The function does the following :  
+accum("abcd") --> "A-Bb-Ccc-Dddd"  
+accum("RqaEzty") --> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"  
+accum("cwAt") --> "C-Ww-Aaa-Tttt"  
+
+	
+

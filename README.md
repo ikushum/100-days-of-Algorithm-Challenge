@@ -220,5 +220,6 @@ accum("cwAt") --> "C-Ww-Aaa-Tttt"
 
 53) **new_numerical_system:** Your Informatics teacher at school likes coming up with new ways to help you understand the material. When you started studying numeral systems, he introduced his own numeral system, which he's convinced will help clarify things. His numeral system has base 26, and its digits are represented by English capital letters - A for 0, B for 1, and so on. The teacher assigned you the following numeral system exercise: given a one-digit number, you should find all unordered pairs of one-digit numbers whose values add up to the number. For example for input "G" the function returns ["A + G", "B + F", "C + E", "D + D"]. 
 
-	
+### Day 41: March 22, 2017
 
+53) **valid_number:** Congratulations! That Special Someone has given you their phone number. But WAIT, is it a valid number? The function verifies whether the given string contains a valid British mobile (cell) phone number or not. If valid, it returns 'In with a chance'. If invalid, or if given an empty string, it returns 'Plenty more fish in the sea'. A number can be valid in the following ways: In the UK, mobile numbers begin with '07' followed by 9 other digits, e.g. '07454876120'. Sometimes the number is preceded by the country code, the prefix '+44', which replaces the '0' in ‘07’, e.g. '+447454876120'. And sometimes numbers are given with dashes in-between digits or on either side, e.g. '+44--745---487-6120' or '-074-54-87-61-20-'.

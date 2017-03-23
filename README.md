@@ -223,3 +223,7 @@ accum("cwAt") --> "C-Ww-Aaa-Tttt"
 ### Day 41: March 22, 2017
 
 55) **valid_number:** Congratulations! That Special Someone has given you their phone number. But WAIT, is it a valid number? The function verifies whether the given string contains a valid British mobile (cell) phone number or not. If valid, it returns 'In with a chance'. If invalid, or if given an empty string, it returns 'Plenty more fish in the sea'. A number can be valid in the following ways: In the UK, mobile numbers begin with '07' followed by 9 other digits, e.g. '07454876120'. Sometimes the number is preceded by the country code, the prefix '+44', which replaces the '0' in ‘07’, e.g. '+447454876120'. And sometimes numbers are given with dashes in-between digits or on either side, e.g. '+44--745---487-6120' or '-074-54-87-61-20-'.
+
+### Day 42: March 23, 2017
+
+56) **jaden_casing_string:** Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). When Jaden writes on Twitter, he is known for almost always capitalizing every word. The program converts strings to how they would be written by Jaden Smith. 

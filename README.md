@@ -227,3 +227,7 @@ accum("cwAt") --> "C-Ww-Aaa-Tttt"
 ### Day 42: March 23, 2017
 
 56) **jaden_casing_string:** Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). When Jaden writes on Twitter, he is known for almost always capitalizing every word. The program converts strings to how they would be written by Jaden Smith. 
+
+### Day 43: March 26, 2017
+
+57) **reverse_and_invert:** The function reverses and inverts all integer values in a given array and ignores all other types than integer. 

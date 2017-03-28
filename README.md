@@ -231,3 +231,7 @@ accum("cwAt") --> "C-Ww-Aaa-Tttt"
 ### Day 43: March 26, 2017
 
 57) **reverse_and_invert:** The function reverses and inverts all integer values in a given array and ignores all other types than integer. 
+
+### Day 44: March 28, 2017
+
+58) **stack_array:** Stack implementation using array in C++. It contains functions like push, pop and display for a stack which can hold up to 5 integer values.

@@ -239,3 +239,5 @@ accum("cwAt") --> "C-Ww-Aaa-Tttt"
 ### Day 45: March 31, 2017
 
 59) **tribonacci_series:** Given the first three terms of the tribonacce series as an array and a non negative integer n, the function returns the first n elements of the series as an array.
+
+60) **Xbonacci_series:** This is a Xbonacci function that takes a signature of X elements - and each next element is the sum of the last X elements - and returns the first n elements of the so seeded sequence.

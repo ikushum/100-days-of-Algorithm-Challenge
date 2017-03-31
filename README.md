@@ -235,3 +235,7 @@ accum("cwAt") --> "C-Ww-Aaa-Tttt"
 ### Day 44: March 28, 2017
 
 58) **stack_array:** Stack implementation using array in C++. It contains functions like push, pop and display for a stack which can hold up to 5 integer values.
+
+### Day 45: March 31, 2017
+
+59) **tribonacci_series:** Given the first three terms of the tribonacce series as an array and a non negative integer n, the function returns the first n elements of the series as an array.

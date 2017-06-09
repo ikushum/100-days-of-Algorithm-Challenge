@@ -241,3 +241,9 @@ accum("cwAt") --> "C-Ww-Aaa-Tttt"
 59) **tribonacci_series:** Given the first three terms of the tribonacce series as an array and a non negative integer n, the function returns the first n elements of the series as an array.
 
 60) **Xbonacci_series:** This is a Xbonacci function that takes a signature of X elements - and each next element is the sum of the last X elements - and returns the first n elements of the so seeded sequence.
+
+### Day 46: June 9, 2017
+
+61) **alphabet_war:** Description can be found [here](https://www.codewars.com/kata/alphabet-war)
+
+62) **covfefe:** Given a string. The program must replace the word(s) coverage by covfefe, however, if it doesn't find the word coverage in the string, it must add covfefe at the end of the string with a leading space.

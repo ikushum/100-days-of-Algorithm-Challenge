@@ -247,3 +247,9 @@ accum("cwAt") --> "C-Ww-Aaa-Tttt"
 61) **alphabet_war:** Description can be found [here](https://www.codewars.com/kata/alphabet-war)
 
 62) **covfefe:** Given a string. The program must replace the word(s) coverage by covfefe, however, if it doesn't find the word coverage in the string, it must add covfefe at the end of the string with a leading space.
+
+### Day 47: July 7, 2017
+
+63) **lost_number:** An ordered sequence of numbers from 1 to N is given. One number might have deleted from it, then the remaining numbers were mixed. The method finds the number that was deleted.
+
+
